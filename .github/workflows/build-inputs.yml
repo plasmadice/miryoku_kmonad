@@ -2,7 +2,11 @@
 # https://github.com/manna-harbour/miryoku
 
 name: 'Build Inputs'
+
 on:
+  push:
+    branches:
+      - '*'
   workflow_dispatch:
     inputs:
       alphas:
