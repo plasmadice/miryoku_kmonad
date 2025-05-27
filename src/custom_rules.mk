@@ -1,3 +1,8 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
+MIRYOKU_ALPHAS=QWERTY
+MIRYOKU_EXTRA=QWERTY
+MIRYOKU_TAP=QWERTY
+MIRYOKU_NAV=VI
+MIRYOKU_KMONAD_OS=MAC
