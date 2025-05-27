@@ -8,11 +8,11 @@ on:
       alphas:
         description: 'Miryoku Alphas'
         required: false
-        default: 'default'
+        default: 'qwerty'
       nav:
         description: 'Miryoku Nav'
         required: false
-        default: 'default'
+        default: 'vi'
       clipboard:
         description: 'Miryoku Clipboard'
         required: false
@@ -24,11 +24,11 @@ on:
       mapping:
         description: 'Miryoku Mapping'
         required: false
-        default: 'default'
+        default: 'lite'
       kmonad_os:
         description: 'Miryoku KMonad 0S'
         required: false
-        default: 'default'
+        default: 'mac'
       rules:
         description: 'custom_rules.mk'
         required: false
